@@ -7,8 +7,8 @@ Specialy there have unit testing for some Controllers.
 There has two part. Those are Front end and Admin Panel
 
 # Front end
-1.User Sign up and Login
-2.Add, View and Delete own Post
+1. User Sign up and Login
+2. Add, View and Delete own Post
 
 # Admin Panel
 1. Manage Posts
